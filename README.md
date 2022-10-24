@@ -32,6 +32,7 @@ Instructions:
 4) come outside and compile the boardgames.java file
 
 sanathbhimsen@crc-dot1x-nat-10-239-119-56 src %  javac -d . *.java
+
 sanathbhimsen@crc-dot1x-nat-10-239-119-56 test % java boardgames.java 
 
 -------------------------------------------------------------------------------------------------------------------------------
