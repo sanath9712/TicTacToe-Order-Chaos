@@ -33,6 +33,6 @@ Instructions:
 
 sanathbhimsen@crc-dot1x-nat-10-239-119-56 src %  javac -d . *.java
 
-sanathbhimsen@crc-dot1x-nat-10-239-119-56 test % java boardgames.java 
+sanathbhimsen@crc-dot1x-nat-10-239-119-56 test % java boardgames
 
 -------------------------------------------------------------------------------------------------------------------------------
